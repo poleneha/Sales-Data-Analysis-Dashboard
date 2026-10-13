@@ -1,0 +1,13 @@
+SALES DATA ANALYSIS — BUSINESS INSIGHTS
+
+1. Regional Performance: The West region recorded the highest sales at $739,813.61, followed by East at $691,828.17.
+
+2. Category Performance: Technology was the leading category with $839,893.28 in sales, followed by Furniture and Office Supplies.
+
+3. Monthly Sales Trend: November 2026 recorded the highest monthly sales at $118,454.51 in the supplied analysis. Review monthly trends and validate the date range before drawing seasonal conclusions.
+
+4. Top Product: Canon imageCLASS 2200 Advanced Copier ranked first by sales, generating $61,599.82.
+
+5. Overall Profitability: Total sales were $2,326,534.35 and total profit was $292,296.81, resulting in an overall profit margin of approximately 12.6%.
+
+Business Recommendation: Review regional and category performance, investigate high-value products, and analyze profit margins to identify opportunities for improving business performance.
